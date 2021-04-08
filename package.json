@@ -36,7 +36,7 @@
   "dependencies": {
     "underscore": "1.10.2",
     "semver": "7.2.1",
-    "react-native-siren": "https://github.com/sintax-dev/react-native-siren.git"
+    "react-native-siren": "sintax-dev/react-native-siren#master"
   },
   "peerDependencies": {
     "react": "^16.8.1",
